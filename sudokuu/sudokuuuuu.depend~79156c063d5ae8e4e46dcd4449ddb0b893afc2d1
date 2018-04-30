@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1525046974 source:c:\c++'\sudokuuuuu\main.cpp
+	<iostream>
+	<ctime>
+	<cstdlib>
+
